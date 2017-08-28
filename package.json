@@ -1,0 +1,18 @@
+{
+  "name": "@letakeane/testmodule",
+  "version": "1.0.0",
+  "description": "Testing the creation of an NPM package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Leta Keane",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
